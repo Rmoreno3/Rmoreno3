@@ -1,4 +1,18 @@
-### Hi there 👋
+[![Rmoreno3 GitHub stats](https://github-readme-stats.vercel.app/api?username=Rmoreno3&show_icons=true)](https://github.com/Rmoreno3/github-readme-stats)
+#### :atom_symbol: Frontend Developer Jr, amante de la tecnologia :computer: y el cafe :coffee:
+------------------------------------------------------------------------------------------
+## Skills
+- HTML, CSS, SCSS, Tailwind
+- CSS Grid & Flex Box
+- Responsive Design
+- JavaScript
+- ReactJs, Hooks, State
+- NPM
+- Webpack
+
+
+
+
 
 <!--
 **Rmoreno3/Rmoreno3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,18 +1,15 @@
 [![Rmoreno3 GitHub stats](https://github-readme-stats.vercel.app/api?username=Rmoreno3&show_icons=true)](https://github.com/Rmoreno3/github-readme-stats)
-#### :atom_symbol: Frontend Developer con experiencia en maquetar prototipos, interesado en desplegar propuestas diseñadas con herramientas como Figma.
-
-Lograr sitios web amigables y adaptativos para el usuario con lenguajes cómo JavaScript(ReactJs) tomando en cuenta las estrategias UX.
-
-Reynaldo es una persona empática, colaboradora y dedicada al trabajo, le gusta ver y jugar al fútbol, cocinar, amante del café y de la tecnología.
+#### :atom_symbol: Frontend Developer 
 ------------------------------------------------------------------------------------------
 ## Skills
 - HTML, CSS, SCSS, Tailwind
 - CSS Grid & Flex Box
 - Responsive Design
 - JavaScript
-- ReactJs, Hooks, State
+- ReactJS
 - NPM
-- Webpack
+- GIT
+- Vite
 
 
 

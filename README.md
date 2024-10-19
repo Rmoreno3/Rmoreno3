@@ -19,10 +19,6 @@ My passion for programming goes beyond code. I enjoy solving complex problems an
 
 I stay up to date with the latest trends and technologies in web development, such as Vite and performance optimization, to offer innovative solutions to every project I am involved in. I constantly look for opportunities for learning and personal development, both at a technical level and in communication and teamwork skills.
 
-
-<!-- code gif-->
-<img align="right" alt="GIF" src="./code.gif" width="500" height="320" />
-
 - ☕ I love Coffe
 - 🚀 Stack: JavaScript, ReactJs, NextJs, NodeJs, Astro
 <!-- About section: END -->

@@ -13,7 +13,7 @@
  <!-- About section -->
 
 ---
-✨I am a frontend developer with more than 3 years of experience creating dynamic and functional user interfaces using HTML, CSS, JavaScript, React.js, Astro and Next.js. My focus is on building fast, responsive and accessible web applications that offer an intuitive and fluid user experience. Additionally, I handle backend technologies such as Node.js and MongoDB databases, which allows me to understand and collaborate efficiently on full-stack development projects.
+✨I am a Full Stack Developer with more than 3 years of experience creating dynamic and functional user interfaces using HTML, CSS, JavaScript, React.js, Astro and Next.js. My focus is on building fast, responsive and accessible web applications that offer an intuitive and fluid user experience. Additionally, I handle backend technologies such as Node.js and MongoDB databases, which allows me to understand and collaborate efficiently on full-stack development projects.
 
 My passion for programming goes beyond code. I enjoy solving complex problems and turning ideas into creative and efficient digital solutions. I have worked on projects ranging from corporate websites to interactive applications and e-commerce platforms, always seeking to improve code efficiency and optimize the user experience.
 
